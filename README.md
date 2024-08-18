@@ -1,6 +1,6 @@
-# docs_clone
+# CollabDocs
 
-A new Flutter project.
+A collaborative editing tool made using Flutter, Riverpod, Nodejs, Express, MongoDB, Mongoose, SocketIO.
 
 ## Getting Started
 
